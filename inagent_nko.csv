@@ -75,36 +75,3 @@
 74 | 127051, Москва, Малый Каретный пер., д.12 | 1027739615860 | 7712017606 | 277140009 | 21.07.2014 | Ассоциация некоммерческих организаций "В защиту прав избирателей "ГОЛОС"
 75 | 123056, город Москва, переулок Красина, д. 15, стр. 1 | 1037739618872 | 7712070048 | 677140001 | 05.06.2014 | Евразийская антимонопольная ассоциация
 76 | 125040, г. Москва, ул. Скаковая, д. 17, стр. 2, оф. 2613 | 1097799044518 | 7714032931 | 677130001 | 27.06.2013 | 
-
-
-
-77 | Информация представлена по состоянию на  | 11.12.2019 | 
-
-		 | 
-
-	 | <!--
-document.write("<a href='http://www.liveinternet.ru/click' " +
-"target=_blank><img src='//counter.yadro.ru/hit?t13.5;r" +
-escape(document.referrer) + ((typeof (screen) == "undefined") ? "" :
-";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
-screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
-";" + Math.random() +
-"' alt='' title='LiveInternet: показано число просмотров за 24" +
-" часа, посетителей за 24 часа и за сегодня' " +
-"border='0' width='88' height='31'><\/a>")
-//--> | 
-    (function(d, t, p) {
-        var j = d.createElement(t); j.async = true; j.type = "text/javascript";
-        j.src = ("https:" == p ? "https:" : "http:") + "//stat.sputnik.ru/cnt.js";
-        var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
-    })(document, "script", document.location.protocol);
-
-78 | 
-			 | Владелец сайта  | Минюст России |   © 2009 - 2019 | 
-			 | На главную
-79 | 
-			 | 
-			 | var l = 'support';var e = l + '@' + 'scli' + '.' + 'ru';var u = '&#109;ai&#108;t&#111;:' + e;document.write('<a href="'+u+'" class="bot">'+e+'</a>'); | 
-			 | 
-			 | 
-			
