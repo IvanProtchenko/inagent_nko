@@ -103,7 +103,7 @@ screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
 78 |   © 2009 - 2021 | 
 			 | На главную | 
 			 | 
-			 | var l = 'support';var e = l + '@' + 'scli' + '.' + 'ru';var u = '&#109;ai&#108;to:' + e;document.write('<a href="'+u+'" class="bot">'+e+'</a>');
+			 | var l = 'support';var e = l + '@' + 'scli' + '.' + 'ru';var u = '&#109;&#97;&#105;lto:' + e;document.write('<a href="'+u+'" class="bot">'+e+'</a>');
 79 | 
 			 | 
 			 | 
