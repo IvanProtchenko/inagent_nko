@@ -77,7 +77,7 @@
 76 | 29.12.2020 | 
 
 
- | Информация представлена по состоянию на  | 20.02.2021 | 
+ | Информация представлена по состоянию на  | 25.02.2021 | 
 
 		 | 
 
@@ -103,7 +103,7 @@ screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
 78 | 
 			 | На главную | 
 			 | 
-			 | var l = 'support';var e = l + '@' + 'scli' + '.' + 'ru';var u = 'ma&#105;&#108;&#116;o:' + e;document.write('<a href="'+u+'" class="bot">'+e+'</a>'); | 
+			 | var l = 'support';var e = l + '@' + 'scli' + '.' + 'ru';var u = 'mailt&#111;:' + e;document.write('<a href="'+u+'" class="bot">'+e+'</a>'); | 
 			
 79 | 
 			 | 
