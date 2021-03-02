@@ -103,12 +103,12 @@ screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
 78 | 
 			 | На главную | 
 			 | 
-			 | var l = 'support';var e = l + '@' + 'scli' + '.' + 'ru';var u = '&#109;ailto&#58;' + e;document.write('<a href="'+u+'" class="bot">'+e+'</a>'); | 
+			 | var l = 'support';var e = l + '@' + 'scli' + '.' + 'ru';var u = '&#109;a&#105;lt&#111;:' + e;document.write('<a href="'+u+'" class="bot">'+e+'</a>'); | 
 			
 79 | 
 			 | 
 			 | Тел.: | 
-			 | 8 (495) 539-25-17, 8 (495) 539-23-91, 8 (495) 587-98-11 | 
+			 | (495) 994-93-55 | 
 window.ctl02_dummy_calendar_time = false;
 window.ctl02_dummy_calendar_IsEmpty = function() { return CalendarIsEmpty('ctl02_dummy_calendar'); };
 window.ctl02_dummy_calendar_IsValid = function() { return CalendarIsValid('ctl02_dummy_calendar'); };
